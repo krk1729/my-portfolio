@@ -6,9 +6,9 @@ phases:
       - echo nothing more required
 artifacts:
   files:
-    - *.html
-    - *.ico
-    - *.pdf
-    - *.md
+    - index.html
+    - favicon.ico
+    - Kannan_KR.pdf
+    - README.md
     - images/*
-    - stules/*
+    - styles/*
